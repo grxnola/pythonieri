@@ -6,9 +6,9 @@ Currently, only Yealink is supported. Yealink have a JSON api which is nice,
 except it's designer is insane. 
 
 ## Requirements
-Python 3.8
-Flask >= 1.1.2
-Requests >= 2.25.1
+* Python 3.8
+* Flask >= 1.1.2
+* Requests >= 2.25.1
 
 ## Usage
 Install the dependencies with `pipenv install` (or install Flask and Requests using
